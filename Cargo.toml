@@ -1,0 +1,9 @@
+[package]
+name = "gitseries"
+version = "0.1.0"
+authors = ["David McKay <david@rawkode.dev>"]
+edition = "2018"
+
+[dependencies]
+git2 = "0.10"
+dirs = "2.0.2"
